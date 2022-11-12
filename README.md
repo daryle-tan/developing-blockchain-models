@@ -1,0 +1,1 @@
+npm install js-sha256 to create hash
